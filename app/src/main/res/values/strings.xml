@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DoorAccess</string>
+    <string name="openDoorText">Open Door</string>
+    <string name="enterIpAdressText">Enter IP</string>
+</resources>
